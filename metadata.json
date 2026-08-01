@@ -1,0 +1,10 @@
+{
+  "name": "Electro Mouma",
+  "description": "Online store & real-time inventory management system for phones and electronic accessories featuring CSV import/export, barcode intake, low-stock alerts, and sales analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
